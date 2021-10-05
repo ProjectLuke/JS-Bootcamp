@@ -1,0 +1,28 @@
+/***************************TAG SELECTORS***************************/
+
+h1{
+    color: red;
+    font-size: 200px;
+}
+/* 
+Above is general best practice, another best practice is listing the style properties by alphabetical order as well
+*/
+
+img:hover{
+    background-color:gold;
+}
+
+
+/***************************CLASS SELECTORS***************************/
+.bacon{
+    background-color: green;
+}
+
+.broccoli{
+    background-color: red;
+}
+
+/***************************ID SELECTORS***************************/
+#Heading{
+    font-size: 16px;
+}
